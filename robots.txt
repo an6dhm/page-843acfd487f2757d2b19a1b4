@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.yvbhanl.cn/sitemap.xml
